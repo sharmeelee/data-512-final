@@ -5,7 +5,7 @@ The purpose of this data analysis is to understand what makes Youtube videos tre
 ### Dataset
 - The data is publicly available and can be found at [this link](https://www.kaggle.com/datasnaek/youtube-new)
 - The data is licensed for CCO: Public Domain
-- The data was scraped using the publicly avaiable Youtube API. Reproducibilty information on how the data was scraped can be found in this [public repository](https://github.com/mitchelljy/Trending-YouTube-Scraper)
+- The data was scraped using the publicly avaiable Youtube API. Reproducibilty information on how the data was scraped and terms of use can be found in this [public repository](https://github.com/mitchelljy/Trending-YouTube-Scraper)
 ### Analysis and Results
 1. Are number of likes or disikes correlated to number of views?
 
