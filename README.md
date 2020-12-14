@@ -8,9 +8,10 @@ The purpose of this data analysis is to understand what makes Youtube videos tre
 - The data was scraped using the publicly avaiable Youtube API. Reproducibilty information on how the data was scraped can be found in this [public repository](https://github.com/mitchelljy/Trending-YouTube-Scraper)
 ### Research Questions
 1. Given the notion that any publicity is good publicity, are number of likes or disikes correlated to number of views?
+![Q1](Reactions_Views_Correlation.png)
 2. Do videos with high positive or negative polarization have higher number of views?
 3. Does negativity gain more viewer traction than positivity? Hypothesis: Negative polarity videos have more views. 
 4. Can videos with negative or inappropriate content trend? What makes negative videos trend? 
 5. What themes of videos have the most viewership?
 6. Is popularity attributed to specific videos or channels/uploaders?
-### Analysis and Results
+
