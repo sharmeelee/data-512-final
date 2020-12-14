@@ -6,12 +6,16 @@ The purpose of this data analysis is to understand what makes Youtube videos tre
 - The data is publicly available and can be found at [this link](https://www.kaggle.com/datasnaek/youtube-new)
 - The data is licensed for CCO: Public Domain
 - The data was scraped using the publicly avaiable Youtube API. Reproducibilty information on how the data was scraped can be found in this [public repository](https://github.com/mitchelljy/Trending-YouTube-Scraper)
-### Research Questions
+### Analysis and Results
 1. Given the notion that any publicity is good publicity, are number of likes or disikes correlated to number of views?
 ![Q1](output/Reactions_Views_Correlation.png)
 2. Do videos with high positive or negative polarization have higher number of views?
+![Q2](output/PostivePolarization_Views_Correlation.png)
 3. Does negativity gain more viewer traction than positivity? Hypothesis: Negative polarity videos have more views. 
+![Q3](output/NegativePolarization_Views_Correlation.png)
 4. Can videos with negative or inappropriate content trend? What makes negative videos trend? 
+![Q4](output/TopWordsInNegVideos.png)
 5. What themes of videos have the most viewership?
+![Q4](output/Video_Title_Wordcloud.png)
 6. Is popularity attributed to specific videos or channels/uploaders?
 
